@@ -1,0 +1,1 @@
+This is a correction code to the article "The effect of step size on straight-line orientation" by Lana Khalidy, Orit Peleg, Claudia Tocco, L. Mahadevan, Marcus Byrne, and Marie Dacke, published in the Journal of The Royal Society Interface in 2019 (DOI: 10.1098/rsif.2019.0181). 
