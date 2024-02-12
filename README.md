@@ -1,6 +1,6 @@
 This is a correction code to the article "The effect of step size on straight-line orientation" by Lana Khalidy, Orit Peleg, Claudia Tocco, L. Mahadevan, Marcus Byrne, and Marie Dacke, published in the Journal of The Royal Society Interface in 2019 (DOI: 10.1098/rsif.2019.0181). 
 
-insect_nav.m sweeps over values for kappa of BRW turning angle distribution, and weight of CRW component (w). Step size and, arena size, and CRW kappa are fixed, and determined from the experiments.
+'insect_nav.m' sweeps over values for kappa of BRW turning angle distribution, and weight of CRW component (w). Step size and, arena size, and CRW kappa are fixed, and determined from the experiments.
 
 Inputs:
 1) BRW_array: vector of BRW kappa values
@@ -11,4 +11,6 @@ Inputs:
 
 Output:
 1) R_vec_length_mean: array of mean resultant lengths
+
+Two output files, 'R_data_1.69.mat' and 'R_data_2.89.mat' are included, representing S. ambiguus and S. lamarcki, respectively. 
 
